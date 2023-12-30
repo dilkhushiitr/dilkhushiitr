@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently looking for a Data scientist role in some great firms
 
-- 👨‍💻 All of my projects are available at [https://github.com/deamlover123?tab=projects](https://github.com/dilkhushiitr?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/dilkhushiitr?tab=projects](https://github.com/dilkhushiitr?tab=repositories))
 
 - 📫 How to reach me **dilkhushiitr@gmail.com**
 
