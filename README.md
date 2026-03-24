@@ -5,7 +5,6 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/91/16/8b/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
-- 🌱 I’m currently looking for a Data scientist role in some great firms
 
 - 👨‍💻 All of my projects are available at [https://github.com/dilkhushiitr?tab=projects](https://github.com/dilkhushiitr?tab=repositories))
 
